@@ -922,7 +922,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "http://hz752.love:63/txt/ysbox.txt",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/omiitp/TV/main/tvb.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
