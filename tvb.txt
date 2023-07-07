@@ -1,6 +1,5 @@
 ﻿﻿﻿﻿﻿﻿﻿﻿🇨🇳央视频道,#genre#
 欢迎关注omii.top
-
 CCTV1,http://hz752.love:63/live_m60y/astv.php?id=cctv1hd
 CCTV1,http://hz752.love:63/live_m60y/bst.php?id=cctv1
 CCTV1,http://hz752.love:63/live_m60y/mak.php?id=cctv1
@@ -9,7 +8,6 @@ CCTV1,http://hz752.love:63/live_m60y/yst.php?id=hdcctv01
 CCTV1,http://hz752.love:63/live_m60y/migu.php?id=cctv1
 CCTV1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV1,http://hz752.love:63/live_m60y/bfgd.php?id=488
-
 CCTV2,http://hz752.love:63/live_m60y/astv.php?id=cctv2hd
 CCTV2,http://hz752.love:63/live_m60y/bst.php?id=cctv2
 CCTV2,http://hz752.love:63/live_m60y/mak.php?id=cctv2
@@ -19,9 +17,7 @@ CCTV2,http://hz752.love:63/live_m60y/bst.php?id=cctv2
 CCTV2,http://hz752.love:63/live_m60y/migu.php?id=cctv2
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV2,http://hz752.love:63/live_m60y/bfgd.php?id=061
-
 欢迎关注omii.top
-
 CCTV3,http://hz752.love:63/live_m60y/astv.php?id=cctv3hd
 CCTV3,http://hz752.love:63/live_m60y/bst.php?id=cctv3
 CCTV3,http://hz752.love:63/live_m60y/mak.php?id=cctv3
@@ -29,7 +25,6 @@ CCTV3,http://hz752.love:63/live_m60y/cqyx.php?id=cctv3HD
 CCTV3,http://hz752.love:63/live_m60y/yst.php?id=cctv-3
 CCTV3,http://hz752.love:63/live_m60y/migu.php?id=cctv3
 CCTV3,http://hz752.love:63/live_m60y/bfgd.php?id=062
-
 CCTV4,http://hz752.love:63/live_m60y/astv.php?id=cctv4hd
 CCTV4,http://hz752.love:63/live_m60y/bst.php?id=cctv4
 CCTV4,http://hz752.love:63/live_m60y/mak.php?id=cctv4
@@ -38,22 +33,18 @@ CCTV4,http://hz752.love:63/live_m60y/yst.php?id=cctv-4
 CCTV4,http://hz752.love:63/live_m60y/migu.php?id=cctv4
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://hz752.love:63/live_m60y/bfgd.php?id=063
-
 CCTV4欧洲,http://hz752.love:63/live_m60y/astv.php?id=cctv4ohd
 CCTV4欧洲,http://hz752.love:63/live_m60y/mak.php?id=cctv4o
 CCTV4欧洲,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw1798072077_1881739463/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426160611&ContentId=265667313&timezone=UTC&mtv_session=a1f0d3ea23dedcfb57026533e0f9fba7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=205e99763af1a2e155df364630a7b05a
 CCTV4欧洲,http://hz752.love:63/live_m60y/migu.php?id=cctv4o
-
 CCTV4美洲,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
 CCTV4美洲,http://hz752.love:63/live_m60y/mak.php?id=cctv4a
 CCTV4美洲,http://hz752.love:63/live_m60y/migu.php?id=cctv4a
-
 CCTV4K,http://hz752.love:63/live_m60y/cn4k.php?id=4khd
 CCTV4K,http://hz752.love:63/live_m60y/cn4k.php
 CCTV4K,http://hz752.love:63/live_m60y/tv4k.php
 CCTV4K,http://hz752.love:63/live_m60y/bst.php?id=cctv4k
 CCTV4K,http://hz752.love:63/live_m60y/cqyx.php?id=CCTV4K
-
 CCTV5,http://hz752.love:63/live_m60y/astv.php?id=cctv5hd
 CCTV5,http://hz752.love:63/live_m60y/bst.php?id=cctv5
 CCTV5,http://hz752.love:63/live_m60y/mak.php?id=cctv5
@@ -62,7 +53,6 @@ CCTV5,http://hz752.love:63/live_m60y/yst.php?id=cctv-5
 CCTV5,http://hz752.love:63/live_m60y/migu.php?id=cctv5
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://hz752.love:63/live_m60y/bfgd.php?id=064
-
 CCTV5+,http://hz752.love:63/live_m60y/astv.php?id=cctv5p
 CCTV5+,http://hz752.love:63/live_m60y/bst.php?id=cctv5p
 CCTV5+,http://hz752.love:63/live_m60y/mak.php?id=cctv5p
@@ -71,7 +61,6 @@ CCTV5+,http://hz752.love:63/live_m60y/yst.php?id=hdcctv05plus
 CCTV5+,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV5+,http://hz752.love:63/live_m60y/migu.php?id=cctv5p
 CCTV5+,http://hz752.love:63/live_m60y/bfgd.php?id=246
-
 CCTV6,http://hz752.love:63/live_m60y/astv.php?id=cctv6hd
 CCTV6,http://hz752.love:63/live_m60y/bst.php?id=cctv6
 CCTV6,http://hz752.love:63/live_m60y/mak.php?id=cctv6
@@ -79,7 +68,6 @@ CCTV6,http://hz752.love:63/live_m60y/cqyx.php?id=cctv6HD
 CCTV6,http://hz752.love:63/live_m60y/yst.php?id=cctv-6
 CCTV6,http://hz752.love:63/live_m60y/migu.php?id=cctv6
 CCTV6,http://hz752.love:63/live_m60y/bfgd.php?id=065
-
 CCTV7,http://hz752.love:63/live_m60y/astv.php?id=cctv7hd
 CCTV7,http://hz752.love:63/live_m60y/bst.php?id=cctv7
 CCTV7,http://hz752.love:63/live_m60y/mak.php?id=cctv7
@@ -87,7 +75,6 @@ CCTV7,http://hz752.love:63/live_m60y/cqyx.php?id=cctv7HD
 CCTV7,http://hz752.love:63/live_m60y/yst.php?id=cctv-7
 CCTV7,http://hz752.love:63/live_m60y/migu.php?id=cctv7
 CCTV7,http://hz752.love:63/live_m60y/bfgd.php?id=127
-
 CCTV8,http://hz752.love:63/live_m60y/astv.php?id=cctv8hd
 CCTV8,http://hz752.love:63/live_m60y/bst.php?id=cctv8
 CCTV8,http://hz752.love:63/live_m60y/mak.php?id=cctv8
@@ -96,7 +83,6 @@ CCTV8,http://hz752.love:63/live_m60y/yst.php?id=cctv-8
 CCTV8,http://hz752.love:63/live_m60y/migu.php?id=cctv8
 CCTV8,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 CCTV8,http://hz752.love:63/live_m60y/bfgd.php?id=066
-
 CCTV9,http://hz752.love:63/live_m60y/astv.php?id=cctv9hd
 CCTV9,http://hz752.love:63/live_m60y/bst.php?id=cctv9
 CCTV9,http://hz752.love:63/live_m60y/mak.php?id=cctv9
@@ -105,7 +91,6 @@ CCTV9,http://hz752.love:63/live_m60y/yst.php?id=cctv-news
 CCTV9,http://hz752.love:63/live_m60y/migu.php?id=cctv9
 CCTV9,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV9,http://hz752.love:63/live_m60y/bfgd.php?id=128
-
 CCTV10,http://hz752.love:63/live_m60y/astv.php?id=cctv10hd
 CCTV10,http://hz752.love:63/live_m60y/bst.php?id=cctv10
 CCTV10,http://hz752.love:63/live_m60y/mak.php?id=cctv10
@@ -114,7 +99,6 @@ CCTV10,http://hz752.love:63/live_m60y/yst.php?id=cctv-10
 CCTV10,http://hz752.love:63/live_m60y/migu.php?id=cctv10
 CCTV10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10,http://hz752.love:63/live_m60y/bfgd.php?id=129
-
 CCTV11,http://hz752.love:63/live_m60y/astv.php?id=cctv11hd
 CCTV11,http://hz752.love:63/live_m60y/bst.php?id=cctv11
 CCTV11,http://hz752.love:63/live_m60y/mak.php?id=cctv11
@@ -122,7 +106,6 @@ CCTV11,http://hz752.love:63/live_m60y/cqyx.php?id=cctv11HD
 CCTV11,http://hz752.love:63/live_m60y/yst.php?id=cctv-11
 CCTV11,http://hz752.love:63/live_m60y/migu.php?id=cctv11
 CCTV11,http://hz752.love:63/live_m60y/bfgd.php?id=130
-
 CCTV12,http://hz752.love:63/live_m60y/astv.php?id=cctv12hd
 CCTV12,http://hz752.love:63/live_m60y/bst.php?id=cctv12
 CCTV12,http://hz752.love:63/live_m60y/mak.php?id=cctv12
@@ -130,7 +113,6 @@ CCTV12,http://hz752.love:63/live_m60y/cqyx.php?id=cctv12HD
 CCTV12,http://hz752.love:63/live_m60y/yst.php?id=cctv-12
 CCTV12,http://hz752.love:63/live_m60y/migu.php?id=cctv12
 CCTV12,http://hz752.love:63/live_m60y/bfgd.php?id=131
-
 CCTV13,http://hz752.love:63/live_m60y/astv.php?id=cctv13hd
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://hz752.love:63/live_m60y/bst.php?id=cctv13
@@ -139,7 +121,6 @@ CCTV13,http://hz752.love:63/live_m60y/cqyx.php?id=CCTVNewsHD
 CCTV13,http://hz752.love:63/live_m60y/yst.php?id=cctv-13
 CCTV13,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://hz752.love:63/live_m60y/bfgd.php?id=067
-
 CCTV14,http://hz752.love:63/live_m60y/astv.php?id=cctv14hd
 CCTV14,http://hz752.love:63/live_m60y/bst.php?id=cctv14
 CCTV14,http://hz752.love:63/live_m60y/mak.php?id=cctv14
@@ -147,7 +128,6 @@ CCTV14,http://hz752.love:63/live_m60y/cqyx.php?id=cctvseHD
 CCTV14,http://hz752.love:63/live_m60y/yst.php?id=cctv-14
 CCTV14,http://hz752.love:63/live_m60y/migu.php?id=cctv14
 CCTV14,http://hz752.love:63/live_m60y/bfgd.php?id=132
-
 CCTV15,http://hz752.love:63/live_m60y/astv.php?id=cctv15hd
 CCTV15,http://hz752.love:63/live_m60y/bst.php?id=cctv15
 CCTV15,http://hz752.love:63/live_m60y/mak.php?id=cctv15
@@ -156,21 +136,18 @@ CCTV15,http://hz752.love:63/live_m60y/yst.php?id=cctv-15
 CCTV15,http://hz752.love:63/live_m60y/migu.php?id=cctv15
 CCTV15,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV15,http://hz752.love:63/live_m60y/bfgd.php?id=133
-
 CCTV16,http://hz752.love:63/live_m60y/astv.php?id=cctv16hd
 CCTV16,http://hz752.love:63/live_m60y/astv.php?id=cctv16_4k
 CCTV16,http://hz752.love:63/live_m60y/bst.php?id=cctv164k
 CCTV16,http://hz752.love:63/live_m60y/cqyx.php?id=CCTV16_4K
 CCTV16,http://hz752.love:63/live_m60y/cqyx.php?id=cctv16HD
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-
 CCTV17,http://hz752.love:63/live_m60y/astv.php?id=cctv17hd
 CCTV17,http://hz752.love:63/live_m60y/bst.php?id=cctv17
 CCTV17,http://hz752.love:63/live_m60y/mak.php?id=cctv17
 CCTV17,http://hz752.love:63/live_m60y/cqyx.php?id=cctv17HD
 CCTV17,http://hz752.love:63/live_m60y/migu.php?id=cctv17
 CCTV17,http://hz752.love:63/live_m60y/bfgd.php?id=204
-
 中国天气,http://hz752.love:63/live_m60y/cqyx.php?id=tianqiSD
 中国天气,http://hz752.love:63/live_m60y/bst.php?id=zgtq
 
@@ -266,7 +243,7 @@ CGTN阿语,http://hz752.love:63/live_m60y/migu.php?id=cgtna
 
 🇨🇳卫视频道,#genre#
 
-公众号[肥猫不肥],http://epg.112114.xyz/douyu/9588891
+奥秘博客,http://epg.112114.xyz/douyu/9588891
 
 湖南卫视,http://hz752.love:63/live_m60y/astv.php?id=hunwshd
 湖南卫视,http://hz752.love:63/live_m60y/bst.php?id=hunws
@@ -303,8 +280,6 @@ CGTN阿语,http://hz752.love:63/live_m60y/migu.php?id=cgtna
 深圳卫视,http://hz752.love:63/live_m60y/cqyx.php?id=shenzhenHD
 深圳卫视,http://hz752.love:63/live_m60y/gdsz.php?id=szws
 深圳卫视,http://hz752.love:63/live_m60y/yst.php?id=shenzhenstv
-
-公众号[神秘的哥哥们],http://epg.112114.xyz/douyu/9588891
 
 北京卫视,http://hz752.love:63/live_m60y/astv.php?id=bjwshd
 北京卫视,http://hz752.love:63/live_m60y/bj.php?id=bjws
